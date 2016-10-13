@@ -10,7 +10,7 @@ package iapsidemo2016.model;
  * @author romeu
  */
 public class Student {
-    private String name;
+    private String name ;
     private String number;
 
     public Student(String name, String number) {

@@ -31,11 +31,12 @@ public class ApplicationData {
         this.students.add(new Student("Rui Simões", "2160481"));    
         this.students.add(new Student("luis morgado", "2160435")); 
         this.students.add(new Student("Alexandre Pereira", "2160479"));
-
+        
 
         this.students.add(new Student("ricardo martinho", "2121213"));        
         this.students.add(new Student("aluno nome", "21112  22"));  
         this.students.add(new Student("Francisco Ronsani", "2160477"));
+        this.students.add(new Student("André Vicente", "2160430"));
         this.students.add(new Student("Rafael Batista", "2160432"));
         this.students.add(new Student("Rúben Rosa", "2160438"));
         this.students.add(new Student("Ricardo Fernandes", "2160448"))

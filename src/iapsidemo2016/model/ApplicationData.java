@@ -12,6 +12,7 @@ import java.util.ArrayList;
  * @author romeu
  */
 public class ApplicationData {
+    
     private static final ApplicationData instance = new ApplicationData();
 
     public static ApplicationData getInstance() {
@@ -20,8 +21,9 @@ public class ApplicationData {
     private ArrayList<Student> students;
 
     public ApplicationData(){
-        this.students = new ArrayList<>();
         
+        this.students = new ArrayList<>();
+        this.students.add(new Student("Leonardo Henriques","2160484"));
         this.students.add(new Student("pedro ferreira", "2121212"));
         this.students.add(new Student("ricardo martinho", "2121213"));        
         this.students.add(new Student("aluno nome", "2111222"));        

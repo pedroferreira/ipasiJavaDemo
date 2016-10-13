@@ -15,8 +15,7 @@ public class Student {
 
     public Student(String name, String number) {
         this.name = name;
-        this.number = number;
-        
+        this.number = number;        
     }
 
     public String getName() {

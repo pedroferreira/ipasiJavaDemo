@@ -21,16 +21,14 @@ public class ApplicationData {
     private ArrayList<Student> students;
 
     public ApplicationData(){      
-        this.students = new ArrayList<>();«'0'
+        this.students = new ArrayList<>();
         
         this.students.add(new Student("pedro ferreira", "2121212"));
         this.students.add(new Student("tiago francisco", "2160424")); 
         this.students.add(new Student("bruno leitão", "2160449")); 
         this.students.add(new Student("diogo carvalho", "2160454")); 
-        this.students.add(new Student("andré paulo", "2160446"));
-        this.students.add(new Student("miguel gameiro", "2160439"));
-        
-
+        this.students.add(new Student("andré paulo", "2160446")); 
+        this.students.add(new Student("João Vieira ", "2160451"));
     }
 
     public ArrayList<Student> getStudents() {

@@ -21,9 +21,10 @@ public class ApplicationData {
     private ArrayList<Student> students;
 
     public ApplicationData(){      
-        this.students = new ArrayList<>();
+        this.students = new ArrayList<>();«'0'
         
-        this.students.add(new Student("pedro ferreira", "2121212")); 
+        this.students.add(new Student("pedro ferreira", "2121212"));
+        this.students.add(new Student("miguel gameiro", "2160439"));
 
     }
 

@@ -24,6 +24,7 @@ public class ApplicationData {
         this.students = new ArrayList<>();
         
         this.students.add(new Student("pedro ferreira", "2121212"));
+        this.students.add(new Student("Vicente Severino", "2160452"));
         
     }
 

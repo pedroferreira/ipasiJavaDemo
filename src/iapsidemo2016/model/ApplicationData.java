@@ -25,7 +25,6 @@ public class ApplicationData {
         
         this.students.add(new Student("pedro ferreira", "2121212"));
         this.students.add(new Student ("aluno 2160472", "2222222"));
-        
         this.students.add(new Student("joao porelo", "2160453"));
     }
 

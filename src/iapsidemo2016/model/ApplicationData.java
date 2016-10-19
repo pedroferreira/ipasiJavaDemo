@@ -26,8 +26,13 @@ public class ApplicationData {
         this.students.add(new Student("pedro ferreira", "2121212")); 
         this.students.add(new Student("Nelson Silva", "2160482"));
         this.students.add(new Student("pedro ferreira", "2121212"));
+        this.students.add(new Student("dorin plamadeala", "2160473"));
+        this.students.add(new Student("tiago francisco", "2160424")); 
         this.students.add(new Student("bruno leitão", "2160449")); 
-
+        this.students.add(new Student("diogo carvalho", "2160454")); 
+        this.students.add(new Student("andré paulo", "2160446")); 
+        this.students.add(new Student("João Vieira ", "2160451"));
+        this.students.add(new Student("Shane carreira ", "2160426"));
     }
 
     public ArrayList<Student> getStudents() {

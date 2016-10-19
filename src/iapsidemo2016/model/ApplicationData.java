@@ -31,6 +31,7 @@ public class ApplicationData {
         this.students.add(new Student("catarina rodrigues", "2160445"));
         this.students.add(new Student("André Rodrigues", "2160463"));
         this.students.add(new Student("João Rodrigues", "2160466"));
+        this.students.add(new Student("Fábio Baptista", "2160434"));
     }
 
     public ArrayList<Student> getStudents() {
